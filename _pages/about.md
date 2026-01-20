@@ -87,4 +87,4 @@ Deep iterative chain-of-thought (CoT) reasoning faces challenges in ensuring con
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.04 - 2025.09*, [Bytedance](https://www.bytedance.com/en/) <img src="images/Bytedance.png" alt="ByteDance" style="width: auto; height: 30px;" />, China.
+- *2025.04 - 2025.09*, [Bytedance](https://www.bytedance.com/en/) <img src="images/bytedance_2.png" alt="ByteDance" style="width: auto; height: 30px;" />, China.
