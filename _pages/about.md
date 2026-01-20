@@ -29,7 +29,7 @@ My research interests include Few-Shot Learning, Large Language Models (LLMs), a
 # 📝 Publications 
 
 <!-- Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/fobor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fobor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background](https://arxiv.org/pdf/2509.17905)
@@ -87,4 +87,4 @@ Deep iterative chain-of-thought (CoT) reasoning faces challenges in ensuring con
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.04 - 2025.09*, [Bytedance](https://www.bytedance.com/en/) <img src="images/bytedance_2.png" alt="ByteDance" style="width: auto; height: 30px;" />, China.
+- *2025.04 - 2025.09*, [Bytedance](https://www.bytedance.com/en/) <img src="images/bytedance_2.png" alt="ByteDance" style="width: auto; height: 25px;" />, China.
