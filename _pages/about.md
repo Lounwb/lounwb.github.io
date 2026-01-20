@@ -62,7 +62,7 @@ Test-time scaling (TTS) improves LLM performance by aggregating diverse paths, y
 
 [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMsg](https://arxiv.org/abs/2502.10858)
 
-Zongqian Wu, **Tianyu Li**, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng<sup>\*</sup>, Lei Feng<sup>\*</sup>
+Zongqian Wu, **Tianyu Li**, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng<sup>\*</sup>
 
 
 Deep iterative chain-of-thought (CoT) reasoning faces challenges in ensuring continual improvement and determining stopping criteria. In this paper, we demonstrate that breadth reasoning—increasing the diversity of initial reasoning paths—can effectively circumvent the need for iterative refinement by achieving comparable or superior performance. To address the limited diversity of existing approaches like self-consistency, we propose integrating contextual exploration with reduced sampling randomness, a method that significantly outperforms deep iterative reasoning.
