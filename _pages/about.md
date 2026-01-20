@@ -79,7 +79,7 @@ Deep iterative chain-of-thought (CoT) reasoning faces challenges in ensuring con
 - *2022.12*: Excellent Student Scholarship.
 
 # 📖 Educations
-- *2025.09 - Now **(Master)***: UESTC <img src="images/favicon_usetc.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof. Xiaofeng Zhu</a>
+- *2025.09 - Now **(Master)***: UESTC <img src="images/favicon_usetc.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof. Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=krryaDkAAAAJ"> Prof.Heng Tao Shen</a>.
 - *2021.09 - 2025.06 **(Bachelor)***: UESTC <img src="images/favicon_usetc.png" alt="11" style="width: 30px; height: 30px;" />, Software Engineering.
 
 <!-- # 💬 Invited Talks
