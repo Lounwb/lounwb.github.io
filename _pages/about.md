@@ -32,7 +32,7 @@ My research interests include Few-Shot Learning, Large Language Models (LLMs), a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fobor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background](https://arxiv.org/pdf/2509.17905)
+[Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background](https://arxiv.org/abs/2601.15065)
 
 **Tianyu Li**, Songyue Cai, Zongqian Wu, Ping Hu, Xiaofeng Zhu
 
